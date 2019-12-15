@@ -14,3 +14,6 @@ will stretch, but get rid of as much background and setup materials in the frame
 as possible helps eliminate need for further image processing.
 
 Take videos using set up pictured with a white background.
+
+Hexbug Motion Analysis will be up soon. Similar concept in code. Currently has a
+bug where while loops aren't ending and must be manually closed to collect the data. 
