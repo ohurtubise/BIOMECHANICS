@@ -17,3 +17,5 @@ Take videos using set up pictured with a white background.
 
 Hexbug Motion Analysis will be up soon. Similar concept in code. Currently has a
 bug where while loops aren't ending and must be manually closed to collect the data. 
+
+GOOD LUCK. Ochia will teach you nothing, Jon will teach you a lot.
